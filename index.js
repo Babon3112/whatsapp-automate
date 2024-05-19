@@ -1,5 +1,4 @@
 import express from "express";
-import xml2js from "xml2js";
 import dotenv from "dotenv";
 import twilio from "twilio";
 
